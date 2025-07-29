@@ -4,7 +4,7 @@
 
 
 # S.E.R.A — Smart Executive Response Assistant
-[![Gemini](https://img.shields.io/badge/Gemini-Active-blue)](https://developers.google.com/ai)  [![AI](https://img.shields.io/badge/AI-Powered-brightgreen)](https://openai.com)  [![Desktop](https://img.shields.io/badge/Desktop-App-purple)](#)  [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-orange)](https://github.com/TomSchimansky/CustomTkinter)  [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/) [License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+[![Gemini](https://img.shields.io/badge/Gemini-Active-blue)](https://developers.google.com/ai)  [![AI](https://img.shields.io/badge/AI-Powered-brightgreen)](https://openai.com)  [![Desktop](https://img.shields.io/badge/Desktop-App-purple)](#)  [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-orange)](https://github.com/TomSchimansky/CustomTkinter)  [![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 
 ---
